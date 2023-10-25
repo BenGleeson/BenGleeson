@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BenGleeson
 - 👀 I’m interested in Health Data Science
-- 🌱 I’m currently stud
+- 🌱 I’m currently studying a Health Data Science MSc at UCL
 - 💞 I’m looking to for roles in Product Managment, Solutions Engineer and Deployment Strategy
 - 📫 How to reach me - ping me an email bensgleeson@gmail.com
 
